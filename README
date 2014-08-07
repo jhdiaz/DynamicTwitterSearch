@@ -1,0 +1,14 @@
+//Author: Jeffrey Diaz
+//Title: Dynamic Twitter Search
+
+- Program was tested and implemented on a LAMP stack.
+- Created twitter app was used for authorized use of twitter/search API.
+- Once search terms are entered, information is passed to server which retrieves results using the twitter API, inserts results into
+  a MySQL database, and performs a query based on retweet_count.
+- Due to API limitations the result set is not exhaustive, but merely a sample.
+- Result set is real-time.
+
+local testing instructions:
+	- Extract file into root directory of web server.
+	- Start web server.
+	- Use "http://localhost/DynamicTwitterSearch/dtsPage.html" as url

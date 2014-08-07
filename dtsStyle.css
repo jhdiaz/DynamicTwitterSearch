@@ -1,0 +1,21 @@
+body{
+	background-color:#FFFFA0;
+}
+
+h1{
+	color:#33CCFF;
+	text-align:center;
+}
+
+h2{
+	color:#000000;
+}
+
+#searchTerms{
+	background-color:#FFFFF2;
+}
+
+#listTitle{
+	color:#33CCFF;
+	text-decoration:underline;
+}
